@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v2.10.4 (202x-xx-xx)
+### Fix
+...
+
 ## v2.9.2 (2023-01-26)
 ### Fix
 * Remove pyreadline dependency (#105) ([#107](https://github.com/iamtalhaasghar/yewtube/issues/107)) ([`19e4148`](https://github.com/iamtalhaasghar/yewtube/commit/19e4148242380b543a4825962716550114984f11))
